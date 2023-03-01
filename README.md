@@ -1,1 +1,5 @@
 # Hatdog
+
+-Exclamador
+-Ramirez
+-Gucela
